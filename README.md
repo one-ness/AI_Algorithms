@@ -2,4 +2,7 @@
 Artificial Intelligence Algorithms
 
 ###### N-Queens Problem
-- solved using backtracking (dfs)
+- solved using backtracking
+
+###### Sudoku Solver Problem
+- solved using backtracking
